@@ -33,7 +33,6 @@ Complementary data for my paper "Enumeration of lattice polytopes by their volum
     
 * Simplices and polytopes are listed by their volume, e.g. the file ``4-polytopes/v12.txt`` contains all the 4-polytopes having normalized volume equal to 12 (one representative for each equivalence class).
 * Each file ends with an empty line.
-* In order to keep each file smaller than 50Mb, the files ``v34.txt``, ``v35.txt`` and ``v36.txt`` in ``3-polytopes/`` are respectively split in 
-  - ``v34a.txt``, ``v34b.txt``,
-  - ``v35a.txt``, ``v35b.txt``,
-  - ``v36a.txt``, ``v36b.txt``, ``v36c.txt``.
+* In order to keep each file smaller than 50Mb, the files ``v34.txt``, ``v35.txt`` and ``v36.txt`` in ``data/3-polytopes/`` are respectively split in two or three files, e.g ``v34a.txt`` and ``v34b.txt``. Once downloaded they can be joined using cat.
+
+        cat v34a.txt v34b.txt > v34.txt
