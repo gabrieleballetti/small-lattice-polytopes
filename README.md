@@ -1,6 +1,6 @@
 # A database of "small" lattice polytopes
 
-Complementary data for my paper "Enumeration of lattice polytopes by their volume".
+Complementary data for my paper [Enumeration of lattice polytopes by their volume](https://arxiv.org/abs/1811.03357).
 
 ## Content (in the folder data/)
 
