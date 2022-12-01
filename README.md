@@ -1,29 +1,28 @@
-# A database of "small" lattice polytopes
+# Dataset of "small" lattice polytopes
 
-Complementary data for my paper [Enumeration of lattice polytopes by their volume](https://arxiv.org/abs/1811.03357).
+**edit: it is reccommended to download the dataset from [Zenodo](https://zenodo.org/record/7388010#.Y4kbP3bMJOQ) as it is compressed and requires no extra postprocessing due to github size limit**
 
-## Content (in the folder data/)
+Resulting dataset from the paper
 
-### Simplices
-* 2-simplices up to volume 1000
-* 3-simplices up to volume 1000
-* 4-simplices up to volume 24
-* 5-simplices up to volume 20
-* 6-simplices up to volume 16
+Balletti, G. Enumeration of Lattice Polytopes by Their Volume. Discrete Comput Geom 65, 1087–1122 (2021). [[doi](https://doi.org/10.1007/s00454-020-00187-y), [arXiv](https://arxiv.org/abs/1811.03357)].
 
-### Polytopes
-* 2-polytopes up to volume 50
-* 3-polytopes up to volume 36
-* 4-polytopes up to volume 24
-* 5-polytopes up to volume 20
-* 6-polytopes up to volume 16
+It contains the following complete datasets of lattice polytopes, see the paper for additional details.
 
-### Smooth polytopes
-* Smooth 2-polytopes up to volume 50
-* Smooth 3-polytopes up to volume 36
-* Smooth 4-polytopes up to volume 24
-* Smooth 5-polytopes up to volume 20
-* Smooth 6-polytopes up to volume 16
+ - 2-simplices up to volume 1000
+ - 3-simplices up to volume 1000
+ - 4-simplices up to volume 24
+ - 5-simplices up to volume 20
+ - 6-simplices up to volume 16
+ - 2-polytopes up to volume 50
+ - 3-polytopes up to volume 36
+ - 4-polytopes up to volume 24
+ - 5-polytopes up to volume 20
+ - 6-polytopes up to volume 16
+ - Smooth 2-polytopes up to volume 50
+ - Smooth 3-polytopes up to volume 36
+ - Smooth 4-polytopes up to volume 24
+ - Smooth 5-polytopes up to volume 20
+ - Smooth 6-polytopes up to volume 16
 
 ## Be careful
 
